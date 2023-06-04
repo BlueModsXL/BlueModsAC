@@ -11,9 +11,9 @@
 
 ## AntiCheat Features :
 **General Commands :**
-> !help, !info, !ping, !admins, !op, !notify
+> !help, !info, !ping, !admins, !op, !notify</br>
 **Gamemode Commands :**
-> !gma, !gmc, !gmsp, !gms, !vanish, !tpa
+> !gma, !gmc, !gmsp, !gms, !vanish, !tpa</br>
 **Moderation Commands :**
 > !ban, !unban, !clearchat, !clearlag, !cmdsf, !kill
 
