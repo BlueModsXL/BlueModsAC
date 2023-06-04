@@ -39,7 +39,6 @@ Try : !unban (user) to unban current user on your server.
 
 
 ## GUI
-![](blue.png)
 ![](minecraft.png)
 
 
