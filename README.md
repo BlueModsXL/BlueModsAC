@@ -34,7 +34,7 @@ Try : !unban (user) to unban current user on your server.
 
 
 ## Download
-> [Click me to Download](https://bluemods.neocities.org)
+> [Click me to Download](https://bluemods.neocities.org)</br>
 > [Download on Discord](https://dsc.gg/bluemods)
 
 
@@ -45,14 +45,14 @@ Try : !unban (user) to unban current user on your server.
 
 ## Credits
 **Creators/Developers**
-- [BlueMods / BluexD#7232](https://dsc.gg/bluemods)
+- [BlueMods / BluexD#7232](https://dsc.gg/bluemods)</br>
 - [! MP09#1560](https://discord.gg/9J3Nhb7ggg)
 
 **Apps Used to Edit**
 - [MT Manager](https://mt2.cn)
 
 ## Links
-> [Discord Community](https://dsc.gg/bluemods)
-> [Official Websites](https://bluemods.neocities.org)
-> [Youtube Channel](https://youtube.com/@BlueModsYT)
+> [Discord Community](https://dsc.gg/bluemods)</br>
+> [Official Websites](https://bluemods.neocities.org)</br>
+> [Youtube Channel](https://youtube.com/@BlueModsYT)</br>
 
