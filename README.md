@@ -10,11 +10,11 @@
 <h4 align="center">BlueMods AntiCheat for Minecraft Bedrock is a powerful tool designed to protect your server from hackers, & cheaters</a>.</h4>
 
 ## AntiCheat Features :
-**General Commands :**
+* **General Commands :**
 > !help, !info, !ping, !admins, !op, !notify</br>
-**Gamemode Commands :**
+* **Gamemode Commands :**
 > !gma, !gmc, !gmsp, !gms, !vanish, !tpa</br>
-**Moderation Commands :**
+* **Moderation Commands :**
 > !ban, !unban, !clearchat, !clearlag, !cmdsf, !kill
 
 
