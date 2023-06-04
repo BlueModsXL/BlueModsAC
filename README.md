@@ -1,5 +1,4 @@
-# BlueModsAC
-BlueMods AntiCheat f
+
 <h1 align="center">
   <br>
   <a href="https://www.youtube.com/c/BlueModsYT"><img src="blue.png" alt="BlueMods" width="200"></a>
@@ -57,4 +56,3 @@ Try : !unban (user) to unban current user on your server.
 > [Official Websites](https://bluemods.neocities.org)
 > [Youtube Channel](https://youtube.com/@BlueModsYT)
 
-or Minecraft Bedrock is a powerful tool designed to protect your server from hackers, &amp; cheaters
