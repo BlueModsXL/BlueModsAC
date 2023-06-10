@@ -44,7 +44,7 @@ Try : !unban (user) to unban current user on your server.
 
 ## Credits
 **Creators/Developers**
-- [BlueMods / BluexD#7232](https://dsc.gg/bluemods)</br>
+- [BluexD#7232](https://dsc.gg/bluemods)</br>
 - [! MP09#1560](https://discord.gg/9J3Nhb7ggg)
 
 **Apps Used to Edit**
